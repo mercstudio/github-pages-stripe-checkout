@@ -359,7 +359,7 @@ pre {
 :root {
   --accent-color: #ed5f74;
   --headline-color: var(--accent-color);
-  --logo-image: url("https://storage.googleapis.com/stripe-sample-images/logo-pasha.svg");
+  --logo-image: url("https://mercstudio.com/content/images/size/w1000/2020/11/FullColor_1280x1024_72dpi.png");
 }
 
 .pasha-image-stack {
