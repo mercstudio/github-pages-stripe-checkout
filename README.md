@@ -2,7 +2,7 @@
 
 This is an example of a client-only (server-free) donation payment page that can be hosted on GitHub using Stripe Checkout.
 
-You can see this repository running on [GitHub Pages](https://pages.github.com/) here: https://stripe-samples.github.io/github-pages-stripe-checkout
+You can see this repository running here: https://mercstudio.github.io/github-pages-stripe-checkout/
 <img src="./demo.gif" alt="A gif of the Checkout payment page rendering" align="center">
 
 ## Setup
